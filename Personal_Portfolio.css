@@ -1,0 +1,128 @@
+
+/** For portfolio **/
+
+
+body{
+    background-color: rgb(231, 235, 223);
+    margin: 100px 100px 100px 100px; 
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    text-align: center;
+}
+
+#photo{
+    width: 420px;
+    height: 420px;
+    margin : 0% 35% 0 33%;
+    border: solid 5px;
+    border-color: azure;
+    border-radius: 500px;
+
+}
+
+.horizontal_line{
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 60px;
+    border-color: rgb(15, 32, 130)  ;
+}
+
+
+span{
+  color: rgb(13, 13, 218);  
+}
+
+#Tech{
+    color: rgb(138, 0, 0);
+}
+
+#link{
+    font-size: large;
+    text-decoration: none;
+    color: brown;
+}
+
+.Project{
+    color: rgba(76, 13, 171, 0.763);
+}
+
+table{
+    border: solid 1.5px rgb(255, 0, 0);
+     border-collapse: collapse;
+     text-align: center;
+     margin: auto;
+     padding: 20px;
+}
+
+tr{
+ border: solid 1.5px rgb(255, 0, 0);
+ border-collapse: collapse;
+ text-align: center;
+  padding: 10px;
+}
+
+th{
+ border: solid 1.5px rgb(255, 0, 0);
+  border-collapse: collapse;
+   text-align: center;
+    padding: 10px;
+}
+
+td{
+ border: solid 1.5px rgb(255, 0, 0);
+  border-collapse: collapse;
+   text-align: center;
+    padding: 10px;
+}
+
+
+fieldset{
+    padding-bottom: 25px;
+    padding-top: 25px;
+    padding-left: 0px;
+    margin: 0 35% 0 35%;
+    border: solid 1.8px;
+    border-radius: 30px;
+}
+
+
+label{
+    color: rgb(131, 11, 244);
+}
+
+input{
+    opacity: 60%;
+}
+
+textarea{
+    opacity: 60%;
+}
+
+button{
+    background-color:rgb(7, 240, 3);
+    color: purple;
+    font-size: larger;
+    width: 130px;
+    height: 30px;
+    border-radius: 100px;
+    padding: 10px 0px 30px 0px;
+    cursor: pointer;
+}
+
+.insta{
+
+    width: 280px;
+    height: 280px;
+    text-decoration: none;
+
+    
+
+}
+
+#linkedin{
+    width: 140px;
+    height: 140px;
+    text-decoration: none;
+    border-radius: 100px;
+    
+}
